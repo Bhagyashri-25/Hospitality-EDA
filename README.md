@@ -85,7 +85,7 @@ The dataset used in this project is hosted on Google Drive and publicly accessib
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/<your-username>/hospitality-eda.git
+git clone https://github.com/Bhagyashri-25/Hospitality-EDA.git
 ```
 2. **Navigate to the project folder and open the notebook:**
 
